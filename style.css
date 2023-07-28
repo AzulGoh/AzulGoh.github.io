@@ -43,7 +43,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #9d34f3;
+  color: #6734f3;
 }
 
 .seccion-texto {
@@ -83,7 +83,7 @@ h1 {
 
 .hero-principal h2 {
   font-size: 1.5rem;
-  color: #9546df;
+  color: #4e46df;
 }
 
 /* Sobre mi */
@@ -116,12 +116,12 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #804ddf;
+  background-color: #4d4ddf;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #a686d8;
+  color: #868fd8;
   background-color: #0a0a23;
   padding: 8px 19px;
   border-radius: 50%;
@@ -266,7 +266,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(171, 108, 243);
+  background-color: rgb(108, 130, 243);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
